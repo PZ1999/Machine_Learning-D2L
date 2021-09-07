@@ -10,3 +10,8 @@
 
 MiniConda, Jupyter installed.
 
+## 2021/9/7
+
+Chapter 1 
+
+![image-20210907150536589](README.assets/image-20210907150536589.png)![image-20210907150546864](README.assets/image-20210907150546864.png)
